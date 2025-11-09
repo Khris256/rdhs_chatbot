@@ -85,7 +85,7 @@ st.markdown(
 
 st.title("IBT Chatbot")
 
-VECTOR_STORE_PATH = "UDHS-2022-Report(1).pkl"
+VECTOR_STORE_PATH = "UDHS-2022-Report.pkl"
 
 @st.cache_resource
 def load_embeddings():
