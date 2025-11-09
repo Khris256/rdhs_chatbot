@@ -208,7 +208,8 @@ Fertility rates in Uganda have steadily declined over the years according to UDH
 
 🔹 Insights:
 The Total Fertility Rate (TFR) has decreased from 6.9 in 2000 to 5.4 in 2016 — showing a 22% decline. Urban fertility remains lower than rural across all years.
-
+🔹 Interpretations and implication of the results:
+Provide a summarized interpretation of the results and its implications to uganda the implications could be positive or negative. Use one paragraph.
 🔹 Data Source:
 Uganda Demographic and Health Survey (2000–2016), Fertility Section.
     
